@@ -11,6 +11,7 @@ Päivitä omalla koneellasi tiedostoa "UpdateMe.txt"
 
 Vie muutokset GitHubiin komennoilla: 
 a) git add . (lisää tiedostot ns staging tilaan) 
+
 b) git commit -m "laita lyhyt kuvaus muutoksesta" (vie muutokset lokaaliin repositoryyn)
 
 git pull (tuo uusimmat tiedostot gitistä) 
